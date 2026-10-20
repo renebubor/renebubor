@@ -1,16 +1,18 @@
-## Hi there 👋
+# Rene Bubõr
 
-<!--
-**renebubor/renebubor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Finants- ja ärianalüüs | Juhtimisaruandlus · Kuluanalüüs · Andmekvaliteet**
 
-Here are some ideas to get you started:
+Ühendan finantsanalüüsi ja juhtimisaruandluse kogemuse Exceli ja Power BI oskustega. DACA andmeanalüüsi programmis arendan SQL-i ja Pythoni kasutamist andmete puhastamiseks, analüüsimiseks ja korduva töö automatiseerimiseks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Valitud tööd
+
+- [DACA portfoolio](https://github.com/renebubor/daca-portfolio) — UrbanStyle'i õppejuhtum: SQL, Power BI ja Python.
+- [Pärnu müügiandmelugu](https://github.com/renebubor/daca-portfolio/tree/main/week-6) — hooajalisus, ostukorv ja juhtimisotsused.
+- [Kliendiandmed ja RFM](https://github.com/renebubor/daca-portfolio/tree/main/week-7) — andmete laadimine, puhastamine ja ostukäitumise analüüs.
+- [Automatiseeritud analüüsipipeline](https://github.com/renebubor/daca-portfolio/tree/main/week-8) — API, transformatsioonid, KPI-d ja eksport.
+
+## Tööriistad
+
+Excel · Power BI ja DAX · PostgreSQL / Supabase · Python ja pandas · Plotly · Git
+
+SQL-i ja Pythonit arendan praktiliste projektide kaudu. Portfoolios eristan oma individuaalseid väljundeid meeskonnatöö panusest.
