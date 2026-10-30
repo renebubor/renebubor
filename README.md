@@ -16,3 +16,12 @@
 Excel · Power BI ja DAX · PostgreSQL / Supabase · Python ja pandas · Plotly · Git
 
 SQL-i ja Pythonit arendan praktiliste projektide kaudu. Portfoolios eristan oma individuaalseid väljundeid meeskonnatöö panusest.
+
+
+## GitHubi aktiivsus
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/renebubor/renebubor/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/renebubor/renebubor/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/renebubor/renebubor/output/github-snake.svg">
+</picture>
