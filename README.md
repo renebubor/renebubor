@@ -6,7 +6,7 @@
 
 ## Projektid
 
-### Sleep & PAP Analytics — APAP-andmete analüüs
+### [Sleep & PAP Analytics — APAP-andmete analüüs](https://github.com/renebubor/apap-analytics)
 
 **Arenduses olev isiklik projekt.** Eesmärk on muuta uneapnoe ravi seadme andmed analüüsitavaks: importida SD-kaardilt mõõtmised, ühendada need ravisessioonide ja sündmustega ning luua andmekvaliteedi kontrollid ja ülevaated.
 
@@ -15,7 +15,7 @@
 - **Andmekvaliteet:** duplikaatide, puuduvate seoste ja imporditud failide muudatuste kontroll.
 - **Edasine suund:** analüüsirakenduse täiustamine ning võimalus siduda tulemusi Samsung Healthi andmetega.
 
-*Projekti avalik GitHubi link lisandub pärast avaldamist. Terviseandmeid ega algseid SD-kaardi salvestisi portfoolios ei avaldata.*
+*Avalikus portfoolios kasutatakse näidisandmeid; isiklikke terviseandmeid ega algseid SD-kaardi salvestisi ei avaldata.*
 
 ### DACA — andmeanalüüsi programm (lõpetatud)
 
